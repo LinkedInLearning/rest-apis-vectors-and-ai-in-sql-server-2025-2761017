@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# REST APIs, Vectors, and AI in SQL Server 2025
+This is the repository for the LinkedIn Learning course `REST APIs, Vectors, and AI in SQL Server 2025`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
