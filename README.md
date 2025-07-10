@@ -26,19 +26,18 @@ To resolve this issue:
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
+	See exercise file / module 01_04
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+ 
 
 ## Instructor
 
-Instructor name
+Ben Weissman
 
-Instructor description
-
+Ben is the owner and managing director at Solisyon GmbH, a business management consulting firm in Nuremberg, Germany. The renowned speaker at international data conferences and coauthor of books such as SQL Server on Kubernetes is known for delivering high-quality data integration, business intelligence, data warehousing, and business planning and forecasting solutions.
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ben-weissman).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
