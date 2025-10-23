@@ -5,6 +5,8 @@ This is the repository for the LinkedIn Learning course `REST APIs, Vectors, and
 
 ## Course Description
 
+This course explores the new AI-driven and developer-centric capabilities in SQL Server 2025, focusing on REST API integration, vector search, and working with large language models (LLMs). Learn how to set up and configure SQL Server to support these features, securely connect to external APIs, and bring conversational AI into your T-SQL workflows. The course covers key concepts like embeddings, vector similarity, and indexing for efficient semantic search. Through hands-on examples, you can gain the skills to build intelligent, modern applications directly within SQL Server. By the end of this course, you should be able to design, implement, and optimize AI-enhanced solutions using the latest features in SQL Server 2025.
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -42,6 +44,6 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/rest-apis-vectors-and-ai-in-sql-server-2025
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQHWVAifULfgkA/learning-public-crop_675_1200/B4EZoN.EGeKYAc-/0/1761170965180?e=2147483647&v=beta&t=wPVb06fEjOPmAKIzd7a-VNqeyWXxoGRkJ4uAKd35_8c
 
